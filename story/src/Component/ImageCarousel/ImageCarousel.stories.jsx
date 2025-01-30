@@ -8,7 +8,7 @@ export default {
 
 export const Default = () => (
   <ImageCarousel
-    images={["https://via.placeholder.com/300"]}
+    images={["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2cmg2LrKpmjyGHnYiu7J-L88Bbbqd55bldQ&s"]}
     totalPhotos={40}
   />
 );
